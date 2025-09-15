@@ -26,17 +26,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Joseline Betzabe Suaste Cen # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Estudiante de primer semestre de la carrera de negocios, cuando no estoy en la escuela pienso en dormir 8 horas algun día.
+about-author: Estudiante de primer semestre de la carrera de negocios, cuando no estoy en la escuela pienso en dormir 8 horas algún día.
 
 # Contact links
 email:250300538@ucaribe.edu.mx # Add your Email address
-phone: # Add your Phone number
 website: https://joselinebetzabesuastecen.me/ # Add your website
-linkedin: amaynez # Add your Linkedin handle
 github: Joseline-Betzabe-Suaste-Cen # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+twitter: '@_sua_lim' # Add your Twitter handle
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
