@@ -2,10 +2,10 @@
 layout: post
 read_time: true
 show_date: true
-title:  Conway's Game of Life 
+title: Música
 date:   2021-02-10 13:32:20 -0600
 description: Taking on the challenge of picking up coding again through interesting small projects, this time it is the turn of Conway's Game of Life.
-img: posts/20210210/Game_of_Life.jpg
+img: assets/img/061b6b43881d3040090404aa0b185268.jpg
 tags: [coding, python]
 author: Armando Maynez
 github: amaynez/GameOfLife/
