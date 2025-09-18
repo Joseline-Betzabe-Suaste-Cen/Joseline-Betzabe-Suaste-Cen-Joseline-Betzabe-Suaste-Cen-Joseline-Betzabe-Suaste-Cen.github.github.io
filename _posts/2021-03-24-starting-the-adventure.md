@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title: "Starting the adventure"
+title: "Vida personal"
 date: 2021-03-24
-img: posts/20210324/starting_adventure.jpg
+img: assets/img/061b6b43881d3040090404aa0b185268.jpg
 tags: [general blogging, thoughts, life]
 author: Armando Maynez
 description: "Midlife career change: a disaster or an opportunity?"
