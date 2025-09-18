@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "¿Quién soy?"
 date: 2021-04-20
-img: posts/20210420/post8-rembrandt.jpg
+img: assets/img/e03c0db60d35380156db2e3225d314c7.jpg
 tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
 category: opinion
 author: Armando Maynez
