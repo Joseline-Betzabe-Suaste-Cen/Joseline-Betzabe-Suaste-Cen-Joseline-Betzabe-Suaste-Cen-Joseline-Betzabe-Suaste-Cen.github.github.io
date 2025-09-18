@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Pasatiempos"
 date: 2021-04-02
-img: posts/20210402/post7-header.webp
+img: assets/img/061b6b43881d3040090404aa0b185268.jpg
 tags: [neural networks, machine learning, artificial intelligence]
 category: theory
 author: Armando Maynez
