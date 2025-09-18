@@ -9,7 +9,7 @@ tags: [general blogging, thoughts, life]
 author: Armando Maynez
 description: "Midlife career change: a disaster or an opportunity?"
 ---
-Nací en la ciudad de Cancún un 2 de Octubre del 2007, vivo con mis papás, tengo una hermana menor de 4 años y una perrita llamanda Dulce.
+Nací en la ciudad de Cancún un 2 de Octubre del 2007, vivo con mis papás, tengo una hermana menor de 4 años y una perrita llamada Dulce.
  
 
 
